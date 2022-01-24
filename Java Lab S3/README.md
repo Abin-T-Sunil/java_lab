@@ -1,3 +1,3 @@
-# JavaS3Lab
+# Cycles
 
-This is for S3 Java Lab Programs.
+
